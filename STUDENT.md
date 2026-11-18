@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2A
 - Tài khoản GitHub: nminnnnn
 - Repo bài nộp (URL): https://github.com/nminnnnn/K5-L23-DAY08-2A202603210-NguyenNhatMinh-AIPrelabel
-- Commit chốt bài (hash): chưa chốt; điền hash sau commit cuối
+- Commit chốt bài (hash): `4425e8dd8452697c929878907bf25d502d77c7b9`
 - Máy: Windows, NVIDIA GeForce RTX 3050 Laptop GPU (CUDA)
 - CVAT (Docker): v2.74.1 (`cvat/server:v2.74.1`, `cvat/ui:v2.74.1`), chạy local bằng Docker
 
