@@ -1,0 +1,10 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,13,sai_vi_tri_kich_thuoc,2A202603210,"Box xe máy đỏ bên trái cắt mất phần bánh phía dưới; đã xác nhận không còn lỗi sau khi sửa"
+img_006.jpg,,khong,2A202603210,"Không thấy lỗi rõ; đã kiểm vùng nhãn chồng nhau"
+img_014.jpg,,khong,2A202603210,"Đã kiểm lại, không phát hiện lỗi"
+img_031.jpg,548,thua,Nguyen Nhat Minh,"Vùng nhỏ ở mép trái không đủ phần nhìn thấy để xác định là person"
+img_031.jpg,549,thua,Nguyen Nhat Minh,"Box bao chiếc mũ màu cam trên giá hàng, không có người"
+img_031.jpg,550,sai_vi_tri_kich_thuoc,Nguyen Nhat Minh,"Box chỉ bao nửa trước xe đạp, cắt mất bánh sau và phần lớn khung xe"
+img_031.jpg,551,khong,Nguyen Nhat Minh,"Box person hợp lệ"
+img_031.jpg,552,khong,Nguyen Nhat Minh,"Box person hợp lệ"
+img_035.jpg,,khong,2A202603210,"Không thấy lỗi rõ; đã kiểm thêm người và xe bị che"
